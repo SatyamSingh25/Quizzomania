@@ -58,7 +58,7 @@ Our project is based on GUI concept which will attract the user who loves to lea
 ![Screenshot (200)](https://user-images.githubusercontent.com/53908352/120228270-6d3c7c80-c268-11eb-8944-d19508b93b43.png)
 </br>
 </br>
-**We are also provided cheque which are:-**
+**We are also provided cheque which are:-**</br>
 *![1 CRORE](https://user-images.githubusercontent.com/53908352/120228491-d2906d80-c268-11eb-837e-492badeb6cb6.png)
 </br></br>
 *![5000](https://user-images.githubusercontent.com/53908352/120228565-04a1cf80-c269-11eb-82ea-4d63f96e3328.png)
